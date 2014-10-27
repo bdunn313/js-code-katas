@@ -1,0 +1,37 @@
+{
+  "name": "nodekata",
+  "version": "0.0.1",
+  "description": "Katas for node",
+  "main": "Gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "^2.0.1",
+    "expect.js": "^0.3.1",
+    "gulp": "^3.8.9",
+    "gulp-mocha": "^1.1.1",
+    "gulp-notify": "^2.0.0",
+    "gulp-run": "^1.6.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bdunn313/js-code-katas.git"
+  },
+  "keywords": [
+    "kata",
+    "js",
+    "node",
+    "mocha",
+    "tdd"
+  ],
+  "author": "Bradley Dunn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bdunn313/js-code-katas/issues"
+  },
+  "homepage": "https://github.com/bdunn313/js-code-katas"
+}
